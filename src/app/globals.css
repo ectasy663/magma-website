@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "locomotive-scroll/dist/locomotive-scroll.css";
+
+html,
+body {
+  overflow-x: hidden;
+}
